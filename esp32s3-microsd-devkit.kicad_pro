@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.3,
-          "height": 0.6,
-          "width": 0.6
+          "drill": 2.2,
+          "height": 3.5,
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,21 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "hole_clearance|125155000|101875000|25d2be2c-3a46-4cf8-9b8d-433c9bbcf579|6a3bd3b3-acb6-4948-8f68-cf9880d2ab00",
-        "hole_clearance|125155000|101875000|98b33ea7-95e5-4006-b33f-37031484542d|6a3bd3b3-acb6-4948-8f68-cf9880d2ab00",
-        "hole_clearance|125155000|102075000|437377b8-877f-4e6d-a96d-dd49378bc0cf|6a3bd3b3-acb6-4948-8f68-cf9880d2ab00",
-        "hole_clearance|125155000|102075000|b234cb4f-306e-4976-a9e3-89f2ccb60fe7|6a3bd3b3-acb6-4948-8f68-cf9880d2ab00",
-        "hole_clearance|125155000|96275000|786e25ae-a656-4281-b5a0-2bc59a0d8fab|2b3dc1c5-36f4-4693-b882-893fd7f25ce7",
-        "hole_clearance|125155000|96275000|7da9f57a-521d-4fc5-838c-82af35375b5b|2b3dc1c5-36f4-4693-b882-893fd7f25ce7",
-        "hole_clearance|125155000|96475000|5c5f7bb6-d3be-4b56-85ce-5253282cb324|2b3dc1c5-36f4-4693-b882-893fd7f25ce7",
-        "hole_clearance|125155000|96475000|688436ce-6ece-4ecb-9373-adcfb786cd00|2b3dc1c5-36f4-4693-b882-893fd7f25ce7",
-        "items_not_allowed|132556790|69326300|d32af5bd-4044-4995-874d-a1759de15c31|00000000-0000-0000-0000-000000000000",
-        "starved_thermal|125155000|103495000|afd7f325-451b-435e-9054-32ca45a256bf|481f82f2-4619-4c08-a013-5ff7550c6573|F.Cu",
-        "starved_thermal|125155000|94855000|afd7f325-451b-435e-9054-32ca45a256bf|8871be4e-7b90-4d06-a82d-7f38e816ef79|F.Cu",
-        "starved_thermal|128270000|113665000|afd7f325-451b-435e-9054-32ca45a256bf|fb39a009-fc04-401a-9989-30cbbe3d2dd0|B.Cu",
-        "starved_thermal|168910000|104775000|afd7f325-451b-435e-9054-32ca45a256bf|182e70c3-a53b-46b3-b805-165995d080be|B.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
