@@ -30,3 +30,7 @@ fp-info-cache
 
 # Lockfiles
 *.lck
+
+# plugin generated files
+bom/
+gerber_to_order/
